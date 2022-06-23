@@ -1,0 +1,11 @@
+Ordem GitHub
+
+1º Git Status // verifica as alterações feitas deste o ultimo Git 
+
+2º Git add . // lista arquivos para adicionar no repositorio 
+
+
+3º Git commit -m "inclusao das anotações do curso" //  -m é a mensagem 
+
+4º Git push origin main // envia arquivos para o repositorio.
+
